@@ -8,6 +8,6 @@
 	</parent>
 	<artifactId>module-a</artifactId>
 	<properties>
-		<eclipseFormatterStyle>${project.parent.basedir}/shared/foPÜLLEÜLKrmatter.xml</eclipseFormatterStyle>
+		<eclipseFormatterStyle>${project.parent.basedir}/shared/formatter.xml</eclipseFormatterStyle>
 	</properties>
 </project>
